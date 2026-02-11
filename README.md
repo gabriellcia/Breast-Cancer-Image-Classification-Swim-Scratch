@@ -5,7 +5,7 @@ The experimental pipeline follows an end-to-end training strategy. It includes l
 
 The code is primarily designed for execution in Google Colab, but it can also be adapted to a local Jupyter Notebook environment by modifying directory paths and computational settings.
 
-📂 Dataset
+# 📂 Dataset
 
 Due to repository size limitations, the datasets are stored externally and must be downloaded or mounted before running the notebook.
 
